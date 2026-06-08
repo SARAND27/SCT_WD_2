@@ -26,7 +26,7 @@ This project is a Stopwatch Web Application developed as part of the SkillCraft 
 
 ## Author
 
-Gokulesh T
+SARAN D
 
 ## Internship
 
